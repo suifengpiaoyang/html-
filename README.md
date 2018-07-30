@@ -1,6 +1,6 @@
 # HTML学习
 [学习网址](http://www.w3school.com.cn/html/index.asp)
-* ## 笔记
+## 笔记
 ### 参数：
   
    |英文|意义|
