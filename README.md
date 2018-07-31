@@ -21,7 +21,7 @@
    |\<del>|删除字|<del>例子</del>|
    |\<ins>|下划线|<ins>例子</ins>|
    |\<q>|短引用|<q>短引用</q>|
-   |\blockquote|长引用|<blockquote>长引用</blockquote>|
+   |\<blockquote>|长引用|<blockquote>长引用</blockquote>|
    
 
 ---------------
