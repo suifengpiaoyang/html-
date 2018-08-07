@@ -59,7 +59,7 @@ alt 属性用来为图像定义一串预备的可替换的文本。替换文本�
 ### 图像链接实例
 PS:以图片本身作为链接点
 
-<a href="https://baike.baidu.com/item/柳梦璃/3622691?fr=aladdin"><img src="柳梦璃.jpg"></a>
+<a href="https://baike.baidu.com/item/柳梦璃/3622691?fr=aladdin"><img src="柳梦璃.jpg" height="400"></a>
 
 ---------------------
 
